@@ -14,7 +14,14 @@ Auf "Sehr schwer" sind die meisten meiner Missionen nicht einfach zu bewältigen
 
 **Installation:**
 
-**Um alle 70 Karten herunterzuladen, bitte auf den grünen Button 'Code' und dann auf 'Download ZIP' klicken. Sodann die ZIP-Datei extrahieren und in den folgenden Ordner ablegen: C:\Users\[YOUR USER NAME]\Documents\Stronghold\Maps.**
+**Um alle 70 Karten herunterzuladen, bitte auf den grünen Button 'Code' und dann auf 'Download ZIP' klicken. Sodann die ZIP-Datei extrahieren und in den folgenden Ordner ablegen:
+* Windows:
+
+   C:\Users\[YOUR USER NAME]\Documents\Stronghold\Maps. 
+* Linux:
+
+   /home/[YOUR USER NAME]/.local/share/Steam/steamapps/compatdata/2140020/pfx/drive_c/users/steamuser/My Documents/Stronghold/Maps
+**
 
 **Unsere Reise durch das mittelalterliche Deutschland:**
 
